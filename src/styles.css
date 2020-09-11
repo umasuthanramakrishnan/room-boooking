@@ -1,0 +1,51 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 300px;
+  margin: auto;
+}
+
+.btn {
+  border: none;
+  outline: none;
+  background: transparent;
+}
+
+.btn:active {
+  border-style: outset;
+}
+
+.btn:disabled {
+  color: grey;
+}
+
+section {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.line {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.row {
+  text-transform: uppercase;
+  margin: 10px;
+}
+
+.icon {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: #28328c;
+}
